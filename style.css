@@ -1,0 +1,26 @@
+body {
+    font-family: Inter, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: linear-gradient(to bottom right, #2980b9, #6dd5fa);
+
+}
+
+.container {
+    max-width: 600px;
+    text-align: center;
+}
+
+h1 {
+
+    color: #222;
+}
+
+p {
+    color: #333;
+}
