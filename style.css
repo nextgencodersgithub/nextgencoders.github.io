@@ -17,10 +17,14 @@ body {
 }
 
 h1 {
-
-    color: #222;
+    background: linear-gradient(45deg, #ff6b6b, #6b6bff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
 }
 
 p {
-    color: #333;
+    color: #222;
 }
